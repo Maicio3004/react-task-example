@@ -1,0 +1,33 @@
+[
+    {
+      "id": 0,
+      "titulo": "Preparar presentación",
+      "descripcion": "Finalizar las diapositivas para la exposición sobre cómo se celebra Halloween antes y ahora.",
+      "hecho": false
+    },
+    {
+      "id": 1,
+      "titulo": "Estudiar Spring Security",
+      "descripcion": "Revisar la documentación oficial y ejemplos prácticos para implementar en el proyecto actual.",
+      "hecho": true
+    },
+    {
+      "id": 2,
+      "titulo": "Crear repositorio Backend",
+      "descripcion": "Subir el proyecto Backend a GitHub, crear la rama 'Backend' y un archivo README.",
+      "hecho": false
+    },
+    {
+      "id": 3,
+      "titulo": "Realizar partición de datos",
+      "descripcion": "Dividir el dataset en 80% para entrenamiento y 20% para prueba.",
+      "hecho": true
+    },
+    {
+      "id": 4,
+      "titulo": "Revisar requisitos del sistema PAE",
+      "descripcion": "Definir los requisitos funcionales y no funcionales con el equipo de trabajo.",
+      "hecho": false
+    }
+]
+  
